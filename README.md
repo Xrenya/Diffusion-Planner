@@ -1,3 +1,3 @@
 # Diffusion-Planner
 
-![Demo Mini](assets/bev_whole_scene.gif)
+<img src="assets/bev_whole_scene.gif" height="600" />
